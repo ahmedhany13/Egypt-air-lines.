@@ -5,7 +5,12 @@ A fully implemented website ( FrondEnd &amp;Backend) for Egypt Air Lines , using
 
 These team members are worked to create a one-page responsive website to book, track and view flights from Egypt Airlines using the MEAN stack ( NodeJS , Angular , MongoDB ).
 
-contributers :
+
+The Android and IOS code is located in Ionic-app branch : "https://github.com/secourse2016/code-worms/tree/Ionic-app" .
+
+
+
+contributers  : Code Worms Team
 
 Team Members:
 
